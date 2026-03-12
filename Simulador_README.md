@@ -1,6 +1,6 @@
-## PROJETO - SIMULADOR INTELIGENTE DE ENTREVISTAS
+## PROJETO - SIMULADOR INTELIGENTE DE ENTREVISTAS - IA ENTREVISTADOR
 
-### *Projeto feito diante do prompt destacado no arquivo simulador de entrevistas.*
+### *Projeto feito diante do prompt destacado no arquivo simulador inteligente de entrevistas.*
 
 ________________________________________________________________________________________________________________________-
 
